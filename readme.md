@@ -13,6 +13,6 @@ Feel free to reach out to me if you'd like to collaborate or have any questions:
 
 Email: waleed.cool1857@gmail.com
 
-[LinkedIn](linkedin.com/in/waleed-ahmed-8586b5331/)
+[LinkedIn](https://www.linkedin.com/in/waleed-ahmed-8586b5331/)
 
-[Github](github.com/waleed1857)
+[Github](https://github.com/waleed1857/)

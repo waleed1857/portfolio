@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Visit Portfolio](waleed1857.github.io/portfolio)
+[Visit Portfolio](https://waleed1857.github.io/portfolio/)
 
 Welcome to my portfolio! This project showcases my skills and projects in web development and Python. You’ll find various web-based and coding projects that highlight my abilities in frontend development and other technologies.
 
@@ -11,8 +11,8 @@ This portfolio is a collection of projects that I have worked on as a part of my
 Contact
 Feel free to reach out to me if you'd like to collaborate or have any questions:
 
-**Email**: waleed.cool1857@gmail.com
+Email: waleed.cool1857@gmail.com
 
-**[LinkedIn]**(linkedin.com/in/waleed-ahmed-8586b5331/)
+[LinkedIn](linkedin.com/in/waleed-ahmed-8586b5331/)
 
-**[Github]**(github.com/waleed1857)
+[Github](github.com/waleed1857)

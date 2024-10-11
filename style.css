@@ -354,8 +354,9 @@ p {
     }
 
     h1 {
-        font-size: 30px;
-        line-height: 2.0;
+        font-size: 20px;
+        line-height: 1.0;
+        font-weight: 800;
 
     }
 
@@ -374,6 +375,10 @@ p {
 
     #links .bi {
         display: block;
+    }
+
+    .navbar {
+        column-gap: 20px;
     }
 
     .navbar .bi-list {
@@ -399,6 +404,10 @@ p {
     #links.responsive a {
         display: block;
         padding: 10px;
+    }
+
+    .ref {
+        column-gap: 10px;
     }
 
     p {
@@ -433,6 +442,11 @@ p {
     .technology {
         flex-direction: column;
         row-gap: 10px;
+    }
+
+    .editor-container,
+    .deployment-container {
+        flex-direction: column;
     }
 
     .project {
